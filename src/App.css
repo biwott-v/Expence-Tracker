@@ -1,0 +1,59 @@
+#submit{
+    color:white;
+    background-color: black;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    font-weight: 400px;
+    line-height: 60px;
+}
+.abox{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding:20px;
+    margin :30px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+input{
+    margin:10px;
+    border-radius: 5px;
+    width: 300px;
+    height: 30px;
+}
+table{
+    padding-top: 0cap;
+}
+
+
+#box{
+    padding:10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.adiv{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px ;
+}
+tr,td,th{
+    height: 50px;
+    padding-right: 300px;
+    text-align: center;  
+}
+thead,tr{
+    border-radius: 5px;
+}
+table{
+    border-collapse: collapse;
+}
+thead{
+    color: white;
+    background-color: black;
+}
